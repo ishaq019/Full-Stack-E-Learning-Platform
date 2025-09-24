@@ -1,0 +1,37 @@
+.discussions-container {
+  max-width: 100vw;
+  width: 100vw;
+  padding: 0 20px;
+  min-height: 100vh;
+  background-color: #f9fafb;
+}
+
+.discussions-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.discussion-item {
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 1px 3px rgb(0 0 0 / 0.1);
+  padding: 16px;
+  margin-bottom: 16px;
+}
+
+.discussion-item h3 {
+  margin: 0 0 8px 0;
+  font-size: 1.25rem;
+  color: #111827;
+}
+
+.discussion-item p {
+  margin: 4px 0;
+  color: #4b5563;
+}
+
+.discussion-item p:last-child {
+  font-size: 0.875rem;
+  color: #6b7280;
+}

@@ -1,0 +1,19 @@
+.profile-container {
+  max-width: 100vw;
+  width: 100vw;
+  padding: 0 20px;
+  min-height: 100vh;
+  background-color: #f9fafb;
+}
+
+.profile-details {
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 1px 3px rgb(0 0 0 / 0.1);
+  padding: 16px;
+}
+
+.profile-details p {
+  margin: 8px 0;
+  color: #374151;
+}
